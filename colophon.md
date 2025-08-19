@@ -1,11 +1,6 @@
 ## Colophon
 
-This toolkit was hand-built by Ed Saul as part of a broader exploration into digital reliability and poetic infrastructure.
-It reflects a desire for transparency, modularity, and the quiet satisfaction of knowing your site is alive and well.
 
-Tools: Python, YAML, DNSPython, OpenSSL  
-Design: Minimal, functional, and unapologetically nerdy  
-Philosophy: Monitoring as a form of care
 
 # Colophon
 
@@ -19,7 +14,10 @@ This project was built with a spirit of modular clarity and quiet precision.
 
 ## Design Philosophy
 Inspired by the Bauhaus ethos:  
-> *“Form follows function.”*  
+> *“Form follows function.”*
+> Minimal, functional, and unapologetically nerdy.
+> Monitoring as a form of care
+> It reflects a desire for transparency, modularity, and the quiet satisfaction of knowing your site is alive and well. 
 
 Each module is discrete, purposeful, and transparent.  
 The system favors simplicity over spectacle, and reliability over reach.
@@ -32,6 +30,11 @@ It’s not flashy. It’s faithful.
 This repository lives on GitHub Pages, chosen for its simplicity and static reliability.
 
 ## Author
-Crafted by [Ed Saul](https://easysynth.co.uk), bridge engineer and analog tinkerer.  
+   
 A believer in poetic structure, technical clarity, and the joy of digital detective work.
+
+This toolkit was hand-built by Ed Saul (bridge engineer and analog tinkerer) as part of a broader exploration into digital reliability and poetic infrastructure.
+
+
+
 
