@@ -1,0 +1,15 @@
+web-watchdog/
+├── README.md
+├── monitor/
+│   ├── dns_check.py
+│   ├── ssl_check.py
+│   └── uptime_check.py
+├── config/
+│   └── targets.yaml
+├── logs/
+│   └── monitor.log
+├── utils/
+│   └── notifier.py
+├── tests/
+│   └── test_dns_check.py
+└── colophon.md
